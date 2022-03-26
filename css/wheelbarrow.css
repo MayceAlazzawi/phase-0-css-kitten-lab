@@ -3,9 +3,11 @@ html {
 }
 
 img {
-  position: relative;
+  position: absolute;
   z-index: 11;
   cursor: pointer;
+  top: 185px;
+  left: 200px;
 }
 
 .wrapper {
